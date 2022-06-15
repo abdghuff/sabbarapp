@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77230471128",
+    "project_id": "sabbar-1540f",
+    "storage_bucket": "sabbar-1540f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77230471128:android:661a508ecb43748e66e4ad",
+        "android_client_info": {
+          "package_name": "com.abra.sabbar1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77230471128-b5ojbc32jhgulromh79hg6b3iqmmoigo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq7ApXGCKcA6KGwj1DKOcPEBc2yD1pI3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77230471128-b5ojbc32jhgulromh79hg6b3iqmmoigo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
